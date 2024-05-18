@@ -1,7 +1,3 @@
-/*This assignment use 
-Add, Subtract, Multiply, Divide 
-then use square root and max number */
-
 const add = (a,b) => a + b;
 
 const subtract = (a,b) => a - b;
